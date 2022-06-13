@@ -2,8 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 """
-https://old.reddit.com/r/UraniumSqueeze/comments/v7dpj5/calling_all_nerds_impact_of_sputs_purchasing_on
-
 SPUT pounds purchased data `u_un.csv`
 source: https://sprott.com/investment-strategies/physical-commodity-funds/uranium
 
